@@ -1,3 +1,3 @@
 # CompetitiveProgramming
 
-I'm using Ruby or Python.
+競技プログラミング(主にAtCoder)のコード
